@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f30a4ca4-3424-44eb-a2f7-120a16af7e77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Sequence" />
+        <option value="UML Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xcdi90EQ4OuyxgYxIZmoZnnPBl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Atos/Documents/parkingJava" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.plantuml.idea.lang.settings.PlantUmlSettingsPage" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="net.atos.service" />
+      <recent name="net.atos.business" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\a768091\IdeaProjects\Parking\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ParkingReservationServiceTest.bookParkingPlace">
+    <configuration name="ParkingReservationServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.atos.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.atos.service" />
+      <option name="MAIN_CLASS_NAME" value="net.atos.service.ParkingReservationServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkingReservationServiceTest.bookParkingPlace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.atos.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.atos.service" />
+      <option name="MAIN_CLASS_NAME" value="net.atos.service.ParkingReservationServiceTest" />
+      <option name="METHOD_NAME" value="bookParkingPlace" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservationTest.resaExiste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Parking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.atos.business.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="net.atos.business" />
+      <option name="MAIN_CLASS_NAME" value="net.atos.business.ReservationTest" />
+      <option name="METHOD_NAME" value="resaExiste" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ParkingReservationServiceTest.bookParkingPlace" />
+        <item itemvalue="JUnit.ParkingReservationServiceTest" />
+        <item itemvalue="JUnit.ReservationTest.resaExiste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f30a4ca4-3424-44eb-a2f7-120a16af7e77" name="Default Changelist" comment="" />
+      <created>1581349440743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581349440743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="373" y="73" key="#Plugins" timestamp="1581412443055">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="373" y="73" key="#Plugins/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581412443055" />
+    <state x="373" y="73" key="#Project_Structure" timestamp="1581349468490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="373" y="73" key="#Project_Structure/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581349468490" />
+    <state x="235" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581520396644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="235" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581520396644" />
+    <state x="586" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1581595458997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581595458997" />
+    <state x="583" y="281" width="393" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581520244979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="583" y="281" width="393" height="268" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581520244979" />
+    <state x="551" y="260" key="#com.intellij.tools.ToolEditorDialog" timestamp="1581352561212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="260" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581352561212" />
+    <state x="561" y="156" key="FileChooserDialogImpl" timestamp="1581502884560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="156" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581502884560" />
+    <state x="373" y="73" key="PlantUMLSettings" timestamp="1581353770577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="373" y="73" key="PlantUMLSettings/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581353770577" />
+    <state x="291" y="0" key="SettingsEditor" timestamp="1581515229031">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="291" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581515229031" />
+    <state x="489" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1581412464615">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="489" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581412464615" />
+    <state x="510" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581515367051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581515367051" />
+    <state x="552" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581585080672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="552" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581585080672" />
+    <state x="221" y="38" key="new project wizard" timestamp="1581671717670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="221" y="38" key="new project wizard/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581671717670" />
+    <state x="437" y="189" key="run.anything.popup" timestamp="1581593616364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="437" y="189" key="run.anything.popup/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581593616364" />
+    <state x="443" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581412413506">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="443" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1581412413506" />
+  </component>
+</project>
